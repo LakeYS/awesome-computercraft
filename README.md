@@ -23,3 +23,4 @@ See also: [awesome](https://github.com/sindresorhus/awesome), [awesome-minecraft
 
 # Games
 [BBTetris](http://www.computercraft.info/forums2/index.php?/topic/15878-bbtetris/)
+[BBCards](http://www.computercraft.info/forums2/index.php?/topic/18480-bbcards/)
