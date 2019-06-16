@@ -1,7 +1,9 @@
-# awesome-computercraft
+# Awesome ComputerCraft
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated list of resources and scripts for the ComputerCraft mod for Minecraft.
+
+See also: [awesome](https://github.com/sindresorhus/awesome), [awesome-minecraft](https://github.com/bs-community/awesome-minecraft)
 
 # Contents
 - [Mods for Java Edition](#mods-for-java-edition)
