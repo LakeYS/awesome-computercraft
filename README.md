@@ -13,6 +13,7 @@ See also: [awesome](https://github.com/sindresorhus/awesome), [awesome-minecraft
 
 # Mods for Java Edition
 - [CC Tweaked](https://minecraft.curseforge.com/projects/cc-tweaked) - Improved version of ComputerCraft, ported to Minecraft versions 1.12.2 and up.
+- [Plethora Peripherals](https://minecraft.curseforge.com/projects/plethora-peripherals) - An add-on for CC Tweaked that adds new modules and features.
 - [ComputerCraft](https://github.com/dan200/ComputerCraft) 
 
 # Mods for Bedrock Edition
