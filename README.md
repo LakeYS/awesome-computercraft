@@ -21,6 +21,9 @@ See also: [awesome](https://github.com/sindresorhus/awesome), [awesome-minecraft
 # External Tools
 - [copy-cat](https://github.com/SquidDev-CC/copy-cat) - Emulator for ComputerCraft that works right out of the browser.
 
+# Scripts
+- [Analog Clock Face](http://www.computercraft.info/forums2/index.php?/topic/7763-clock-tower-analogue-clock-face/) - Clock dial script for ComputerCraft monitors that can make working clock towers.
+
 # Games
 - [BBTetris](http://www.computercraft.info/forums2/index.php?/topic/15878-bbtetris/)
 - [BBCards](http://www.computercraft.info/forums2/index.php?/topic/18480-bbcards/)
