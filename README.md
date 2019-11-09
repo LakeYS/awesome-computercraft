@@ -25,6 +25,7 @@ See also: [awesome](https://github.com/sindresorhus/awesome), [awesome-minecraft
 
 # Scripts
 - [Analog Clock Face](http://www.computercraft.info/forums2/index.php?/topic/7763-clock-tower-analogue-clock-face/) - Clock dial script for ComputerCraft monitors that can make working clock towers.
+- [Video Player](http://www.computercraft.info/forums2/index.php?/topic/23399-video-player-watch-rick-roll-in-computercraft/)
 
 # Games
 - [3D Maze](http://www.computercraft.info/forums2/index.php?/topic/13483-3d-game-3d-maze-its-friggin-3d-woo/)
