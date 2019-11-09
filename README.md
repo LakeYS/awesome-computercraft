@@ -28,6 +28,7 @@ See also: [awesome](https://github.com/sindresorhus/awesome), [awesome-minecraft
 
 # Games
 - [3D Maze](http://www.computercraft.info/forums2/index.php?/topic/13483-3d-game-3d-maze-its-friggin-3d-woo/)
+- [3 Game Pak](http://www.computercraft.info/forums2/index.php?/topic/27079-ccjam-2016-3-game-pak-3-fun-games-in-one-tight-package/)
 - [BBTetris](http://www.computercraft.info/forums2/index.php?/topic/15878-bbtetris/)
 - [BBCards](http://www.computercraft.info/forums2/index.php?/topic/18480-bbcards/)
 - [CCSand](http://www.computercraft.info/forums2/index.php?/topic/14004-ccsand-v05-falling-sand-game-for-computercraft/)
