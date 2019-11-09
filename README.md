@@ -14,7 +14,7 @@ See also: [awesome](https://github.com/sindresorhus/awesome), [awesome-minecraft
 # Mods for Java Edition
 - [CC Tweaked](https://minecraft.curseforge.com/projects/cc-tweaked) - Improved version of ComputerCraft, ported to Minecraft versions 1.12.2 and up.
 - [Plethora Peripherals](https://minecraft.curseforge.com/projects/plethora-peripherals) - An add-on for CC Tweaked that adds new modules and features.
-- [ComputerCraft](https://github.com/dan200/ComputerCraft) 
+- [ComputerCraft](https://github.com/dan200/ComputerCraft)
 
 # Mods for Bedrock Edition
 - [CC Tweaked](https://github.com/SquidDev-CC/bedrock) - Proof-of-concept add-on for Minecraft Windows 10 Edition. Not recommended for serious use at the moment.
@@ -27,5 +27,6 @@ See also: [awesome](https://github.com/sindresorhus/awesome), [awesome-minecraft
 - [Analog Clock Face](http://www.computercraft.info/forums2/index.php?/topic/7763-clock-tower-analogue-clock-face/) - Clock dial script for ComputerCraft monitors that can make working clock towers.
 
 # Games
+- [3D Maze](http://www.computercraft.info/forums2/index.php?/topic/13483-3d-game-3d-maze-its-friggin-3d-woo/)
 - [BBTetris](http://www.computercraft.info/forums2/index.php?/topic/15878-bbtetris/)
 - [BBCards](http://www.computercraft.info/forums2/index.php?/topic/18480-bbcards/)
