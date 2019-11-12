@@ -34,3 +34,4 @@ See also: [awesome](https://github.com/sindresorhus/awesome), [awesome-minecraft
 - [BBCards](http://www.computercraft.info/forums2/index.php?/topic/18480-bbcards/)
 - [Blit-8](http://www.computercraft.info/forums2/index.php?/topic/27446-blit-8-a-chip-8-emulator-for-cc/) - A Chip-8 interpreter for ComputerCraft
 - [CCSand](http://www.computercraft.info/forums2/index.php?/topic/14004-ccsand-v05-falling-sand-game-for-computercraft/)
+- [Doom](http://www.computercraft.info/forums2/index.php?/topic/29365-doom-ccs-first-3d-fps-with-online-highscores/) - A re-creation of Doom in ComputerCraft.
