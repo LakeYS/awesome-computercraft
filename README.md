@@ -1,6 +1,8 @@
 # Awesome ComputerCraft
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+**This Awesome list has been deprecated in favor of [tomodachi94/awesome-computercraft](https://github.com/tomodachi94/awesome-computercraft)**. Future development will happen there. This list will remain for historical reference.
+
 A curated list of resources and scripts for the ComputerCraft mod for Minecraft.
 
 See also: [awesome](https://github.com/sindresorhus/awesome), [awesome-minecraft](https://github.com/bs-community/awesome-minecraft)
